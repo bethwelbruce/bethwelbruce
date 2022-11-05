@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bethwelbruce.
-- 👀 I’m interested in python,machine learning,statisticsC+ and backend programming languages
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in PYTHON,ML,Statistics and hands on Java.
+- A SOLITARY TRADER,developing for MQL5 community.
+- 🌱 I’m currently learning Blockchain 
 - 💞️ I’m looking to collaborate on upcoming projects and when my help might be of great need to the community
 - 📫 email bethwelbruce@gmail.com
 
